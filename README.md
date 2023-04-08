@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h6>I'm Saanvi.</h6>
 <h6>I'm a AI/ML enthusiast who's currently doing CSE w/ AIML.</h6>
-<h6>I'm looking to colloborate on new projects.</h6>
+<h6>I'm looking to collaborate on new projects.</h6>
 
 <!--
 **SaanviKumar13/SaanviKumar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
